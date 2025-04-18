@@ -9,3 +9,8 @@ print("The name is " +name+  " phone number is "+str(number))
 print("The name is %s Phone number is %i "%(name, number))
 
 print("The name is {} Phone number is {} ".format(name, number))
+
+#New code, added by Tumaini wekesa (189813)
+age = input("How old are you? ")
+
+print(f"You are {age} years old!!")
